@@ -1,0 +1,1 @@
+Projects to learn various concepts in Django
